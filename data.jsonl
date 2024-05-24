@@ -1,0 +1,42 @@
+{"brand": "Tesla", "model": "Model S Plaid", "year": 2024}
+{"category": "dimensions", "length_mm": 4970, "width_mm": 1964, "height_mm": 1445, "wheelbase_mm": 2960, "curb_weight_kg": 2160, "ground_clearance_mm": 116, "cargo_capacity_l": 804}
+{"category": "performance", "0_to_100_kph_sec": 1.99, "top_speed_kph": 322, "range_km": 628, "horsepower_hp": 1020, "torque_nm": 1400}
+{"category": "engine", "type": "Electric", "motors": 3, "drive_type": "All-Wheel Drive", "battery_capacity_kWh": 100, "charging_time_hours": 12}
+{"category": "transmission", "type": "Direct Drive"}
+{"category": "fuel_economy", "city_mpge": 118, "highway_mpge": 112, "combined_mpge": 115}
+{"category": "exterior", "body_type": "Sedan", "color_options": ["Pearl White Multi-Coat", "Solid Black", "Midnight Silver Metallic", "Deep Blue Metallic", "Red Multi-Coat"], "wheel_size_inch": 21, "tire_type": "All-Season"}
+{"category": "interior", "seating_capacity": 5, "upholstery": "Vegan Leather", "front_legroom_mm": 1067, "rear_legroom_mm": 894, "cargo_capacity_l": 804, "infotainment_screen_size_inch": 17, "sound_system": "22-speaker Premium Audio", "connectivity": ["Bluetooth", "Wi-Fi", "USB", "Wireless Charging"]}
+{"category": "safety", "rating": "5-Star", "features": ["Autopilot", "Automatic Emergency Braking", "Lane Departure Warning", "Blind Spot Monitoring", "Traffic-Aware Cruise Control", "Collision Avoidance Assist", "Surround View Camera"]}
+{"category": "infotainment", "features": ["Touchscreen Interface", "Navigation", "Voice Command", "Streaming Services", "Internet Browser", "Gaming Console", "Smartphone Integration (Apple CarPlay & Android Auto)"]}
+{"category": "pricing", "base_price_usd": 129990, "options": {"full_self_driving": 15000, "premium_interior": 5000, "performance_upgrade": 20000}}
+{"category": "warranty", "basic_years": 4, "basic_km": 80000, "battery_years": 8, "battery_km": 160000, "drive_unit_years": 8, "drive_unit_km": 160000}
+{"category": "features", "items": ["Autonomous Driving", "Over-the-air Updates", "Glass Roof", "Heated Seats", "Ventilated Seats", "Advanced Climate Control", "Ambient Lighting", "Keyless Entry", "Remote Start", "Hands-Free Liftgate"]}
+{"category": "advanced_features", "items": ["Bioweapon Defense Mode", "HEPA Air Filtration", "Auto Lane Change", "Summon Feature", "Full Self-Driving Computer", "Traffic Light and Stop Sign Control", "Navigate on Autopilot", "Automatic Parking"]}
+
+{"brand": "Ford", "model": "Mustang Mach-E", "year": 2024}
+{"category": "dimensions", "length_mm": 4713, "width_mm": 1881, "height_mm": 1621, "wheelbase_mm": 2972, "curb_weight_kg": 2100, "ground_clearance_mm": 147, "cargo_capacity_l": 840}
+{"category": "performance", "0_to_100_kph_sec": 3.5, "top_speed_kph": 180, "range_km": 491, "horsepower_hp": 480, "torque_nm": 860}
+{"category": "engine", "type": "Electric", "motors": 2, "drive_type": "All-Wheel Drive", "battery_capacity_kWh": 88, "charging_time_hours": 10}
+{"category": "transmission", "type": "Direct Drive"}
+{"category": "fuel_economy", "city_mpge": 96, "highway_mpge": 84, "combined_mpge": 90}
+{"category": "exterior", "body_type": "SUV", "color_options": ["Star White", "Space White", "Shadow Black", "Rapid Red", "Infinite Blue"], "wheel_size_inch": 19, "tire_type": "All-Season"}
+{"category": "interior", "seating_capacity": 5, "upholstery": "ActiveX", "front_legroom_mm": 1058, "rear_legroom_mm": 965, "cargo_capacity_l": 840, "infotainment_screen_size_inch": 15.5, "sound_system": "10-speaker B&O Sound System", "connectivity": ["Bluetooth", "Wi-Fi", "USB", "Wireless Charging"]}
+{"category": "safety", "rating": "5-Star", "features": ["Pre-Collision Assist", "Automatic Emergency Braking", "Lane Keeping System", "Blind Spot Information System", "Intelligent Adaptive Cruise Control", "Rear View Camera"]}
+{"category": "infotainment", "features": ["Touchscreen Interface", "Navigation", "Voice Command", "Streaming Services", "Internet Browser", "Smartphone Integration (Apple CarPlay & Android Auto)"]}
+{"category": "pricing", "base_price_usd": 57995, "options": {"extended_range_battery": 5000, "GT_performance_edition": 6000, "premium_package": 3000}}
+{"category": "warranty", "basic_years": 3, "basic_km": 60000, "battery_years": 8, "battery_km": 160000, "drive_unit_years": 5, "drive_unit_km": 100000}
+{"category": "features", "items": ["Ford Co-Pilot360", "Over-the-air Updates", "Panoramic Fixed-Glass Roof", "Heated Seats", "Ventilated Seats", "Dual-Zone Climate Control", "Ambient Lighting", "Keyless Entry", "Remote Start", "Hands-Free Liftgate"]}
+{"category": "advanced_features", "items": ["Active Park Assist 2.0", "360-Degree Camera", "Evasive Steering Assist", "Reverse Brake Assist", "Speed Sign Recognition", "FordPass Connect", "Intelligent Range", "BlueCruise Hands-Free Driving"]}
+
+{"brand": "BMW", "model": "iX", "year": 2024}
+{"category": "dimensions", "length_mm": 4953, "width_mm": 1967, "height_mm": 1696, "wheelbase_mm": 3000, "curb_weight_kg": 2440, "ground_clearance_mm": 203, "cargo_capacity_l": 500}
+{"category": "performance", "0_to_100_kph_sec": 4.6, "top_speed_kph": 200, "range_km": 611, "horsepower_hp": 516, "torque_nm": 765}
+{"category": "engine", "type": "Electric", "motors": 2, "drive_type": "All-Wheel Drive", "battery_capacity_kWh": 105.2, "charging_time_hours": 11}
+{"category": "transmission", "type": "Single-Speed Automatic"}
+{"category": "fuel_economy", "city_mpge": 86, "highway_mpge": 87, "combined_mpge": 86}
+{"category": "exterior", "body_type": "SUV", "color_options": ["Alpine White", "Black Sapphire", "Phytonic Blue", "Sophisto Grey", "Blue Ridge Mountain"], "wheel_size_inch": 21, "tire_type": "All-Season"}
+{"category": "interior", "seating_capacity": 5, "upholstery": "Sensatec", "front_legroom_mm": 1038, "rear_legroom_mm": 985, "cargo_capacity_l": 500, "infotainment_screen_size_inch": 14.9, "sound_system": "Harman Kardon Surround Sound", "connectivity": ["Bluetooth", "Wi-Fi", "USB", "Wireless Charging"]}
+{"category": "safety", "rating": "5-Star", "features": ["Active Driving Assistant", "Frontal Collision Warning", "Lane Departure Warning", "Blind Spot Detection", "Rear Cross Traffic Alert", "Parking Assistant Plus", "Surround View with 3D View"]}
+{"category": "infotainment", "features": ["BMW iDrive 8", "Navigation", "Voice Command", "Streaming Services", "Internet Browser", "Smartphone Integration (Apple CarPlay & Android Auto)"]}
+{"category": "pricing", "base_price_usd": 83500, "options": {"executive_package": 3200, "luxury_package": 4000, "dynamic_handling_package": 2000}}
+{"category": "warranty", "basic_years": 4, "basic_km": 
